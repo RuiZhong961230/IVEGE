@@ -5,9 +5,9 @@ Necessary packages: opfunu and enoppy.
 
 Citation:
 
-@Article{biomimetics8060454, 
-AUTHOR = {Zhong, Rui and Peng, Fei and Zhang, Enzhi and Yu, Jun and Munetomo, Masaharu}, 
-TITLE = {Vegetation Evolution with Dynamic Maturity Strategy and Diverse Mutation Strategy for Solving Optimization Problems}, 
+@Article{biomimetics8060454,< br >
+AUTHOR = {Zhong, Rui and Peng, Fei and Zhang, Enzhi and Yu, Jun and Munetomo, Masaharu},< br >
+TITLE = {Vegetation Evolution with Dynamic Maturity Strategy and Diverse Mutation Strategy for Solving Optimization Problems},< br >
 JOURNAL = {Biomimetics}, 
 VOLUME = {8}, 
 YEAR = {2023}, 
