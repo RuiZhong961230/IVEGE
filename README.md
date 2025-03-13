@@ -18,4 +18,7 @@ DOI = {10.3390/biomimetics8060454 }
 }
 
 ## Datasets and Libraries
-CEC benchmarks are provided by the opfunu library and engineering problems are provided by the enoppy library.
+CEC benchmarks and Engineering problems are provided by opfunu==1.0.0 and enoppy==0.1.1 libraries, respectively.
+
+## Contact
+If you have any questions, please don't hesitate to contact zhongrui[at]iic.hokudai.ac.jp
